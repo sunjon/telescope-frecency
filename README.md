@@ -1,4 +1,6 @@
-# telescope-frecency.nvim
+# THIS REPOSITORY IS ARCHIVED AND NO LONGER UPDATED
+
+# THE MAINTAINED RELEASE VERSION CAN BE FOUND [HERE](https://github.com/nvim-telescope/telescope-frecency.nvim)
 
 A [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) extension that offers intelligent prioritization when selecting files from your editing history.
 
